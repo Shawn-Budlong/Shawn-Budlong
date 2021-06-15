@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Shawn-Budlong, I am 21 years old and from Rockford, Illinois
+- 👀 I’m interested in coding and web development
+- 🌱 I’m currently learning through the Thinkful software engineering bootcamp
+- 💞️ I’m looking to collaborate on mostly class related projects for now, until I get some more experience
+- 📫 You can send me an email at sbudlong3@gmail.com
